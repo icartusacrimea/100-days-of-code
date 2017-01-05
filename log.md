@@ -15,3 +15,11 @@
 **Thoughts:** Pleased.
 
 **Link to work:** https://codepen.io/LaerTrech/pen/GNGaJy
+
+### Day 3: January 5rd, 2017
+
+**Today's Progress**: Simon responsiveness improved. Going back over other FCC projects. Redoing portfolio, adding some JavaScript.
+
+**Thoughts:** Ready to get more work done at work tonight. Always work better at night.
+
+**Link to work:** https://codepen.io/LaerTrech/debug/GNGaJy and https://codepen.io/LaerTrech/pen/KawZOa

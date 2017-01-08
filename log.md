@@ -16,10 +16,26 @@
 
 **Link to work:** https://codepen.io/LaerTrech/pen/GNGaJy
 
-### Day 3: January 5rd, 2017
+### Day 3: January 5th, 2017
 
 **Today's Progress**: Simon responsiveness improved. Going back over other FCC projects. Redoing portfolio, adding some JavaScript.
 
 **Thoughts:** Ready to get more work done at work tonight. Always work better at night.
 
 **Link to work:** https://codepen.io/LaerTrech/debug/GNGaJy and https://codepen.io/LaerTrech/pen/KawZOa
+
+### Day 4: January 6th, 2017
+
+**Today's Progress**: Fixed weather app by switching API to Dark Sky. More on Portfolio.
+
+**Thoughts:** Kind of hate having to Tweet. Possible creation of completely unnecessary addiction. Little gratification, though, as I aim to gain no followers. To do: redo Twitch with API that works.
+
+**Link to work:** http://codepen.io/LaerTrech/pen/RRPxaZ
+
+### Day 5: January 7th, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:*

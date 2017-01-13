@@ -34,8 +34,36 @@
 
 ### Day 5: January 7th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Fixed Twitch with workaround URL. Made logo.
 
-**Thoughts:** 
+**Link to work:** http://codepen.io/LaerTrech/full/yJgYxB
 
-**Link to work:*
+### Day 6: January 8th, 2017
+
+**Today's Progress**: Work on portfolio continues.
+
+**Link to work:**
+
+### Day 7: January 9th, 2017
+
+**Today's Progress**: Work on portfolio continues.
+
+**Link to work:**
+
+### Day 8: January 10th, 2017
+
+**Today's Progress**: Work on portfolio continues. Fixed hamburg menu, section backgrounds..
+
+**Link to work:**
+
+### Day 9: January 11th, 2017
+
+**Today's Progress**: Working on old PHP problem for a job I shouldn't be working on because I'm not proficient enough in PHP to ever get that job. Some jQuery and other portfolio stuff
+
+**Link to work:**
+
+### Day 10: January 12th, 2017
+
+**Today's Progress**: Integrated svg macbook and ipad graphics templates for portfolio with AngularJS, which I don't know anything about. Thanks belcurve on fcc forum. Done working on it for now. Need to change dimensions of imgs. Figure out how to implement links to sites, source code, etc.
+
+**Link to work:** http://s.codepen.io/LaerTrech/debug/KawZOa/RBMOJyYvWgGk
